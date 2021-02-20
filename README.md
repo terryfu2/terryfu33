@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm terry</h1>
+<h1 align="center">Hi, I'm Terry</h1>
 <h3 align="center">A Student studying Computer Science Combined with Actuarial Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terryfu33&label=Profile%20views&color=0e75b6&style=flat" alt="terryfu33" /> </p>
