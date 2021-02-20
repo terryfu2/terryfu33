@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **aMezon**
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **MySQL and PHP**
 
-- 👨‍💻 All of my projects are available at [https://terryfu.ca](https://terryfu.ca)
+- 👨‍💻 My Personal Website [https://terryfu.ca](https://terryfu.ca)
 
 - 📫 How to reach me **terryfu33@gmail.com**
 
-- 📄 Know about my experiences [https://terryfu.ca/terryFuResume.pdf](https://terryfu.ca/terryFuResume.pdf)
+- 📄 My Resume [https://terryfu.ca/terryFuResume.pdf](https://terryfu.ca/terryFuResume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
