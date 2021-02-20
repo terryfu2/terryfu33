@@ -27,4 +27,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=terryfu33&show_icons=true&locale=en&layout=compact" alt="terryfu33" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=terryfu33&show_icons=true&locale=en" alt="terryfu33" /></p>
