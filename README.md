@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi, I'm Terry</h1>
 <h3 align="center">A Student studying Computer Science Combined with Actuarial Science</h3>
