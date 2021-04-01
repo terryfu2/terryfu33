@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terryfu33&label=Profile%20views&color=0e75b6&style=flat" alt="terryfu33" /> </p>
 
 
-- 🔭 I’m currently working on **aMezon**
+- 🔭 I’m currently working on **a mobile app for productivity**
 
-- 🌱 I’m currently learning **MySQL and PHP**
+- 🌱 I’m currently learning **MySQL and React-Native**
 
 - 👨‍💻 My Personal Website [https://terryfu.ca](https://terryfu.ca)
 
