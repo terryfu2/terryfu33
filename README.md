@@ -12,7 +12,7 @@
 
 - My Personal Website [https://terryfu.ca](https://terryfu.ca)
 
-- How to reach me **terryfu33@gmail.com**
+- How to reach me 
 
 - My Resume [https://terryfu.ca/terryFuResume.pdf](https://terryfu.ca/terryFuResume.pdf)
 
